@@ -1,2 +1,3 @@
-
-Hello world this is ethicnic
+<html>
+  <title>welcome to rajasthan</title>
+  </html>
