@@ -1,2 +1,2 @@
-# sas
-Its the starting content of Student assest System
+
+Hello world this is ethicnic
